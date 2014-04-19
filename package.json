@@ -1,0 +1,18 @@
+{
+  "name": "parse-express-raw-body",
+  "version": "0.0.1",
+  "description": "Parse Express raw body parser for parse env",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/flovilmart/parse-express-raw-body.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/flovilmart/parse-express-raw-body/issues"
+  }
+}
